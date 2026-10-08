@@ -1,0 +1,16 @@
+{
+  "name": "War Room",
+  "short_name": "War Room",
+  "description": "Private digitale Fassung von War Room für Handy und PC",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E141A",
+  "theme_color": "#0E141A",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
