@@ -3,12 +3,13 @@
 //
 // Zwischenspeicher: build.mjs trägt VERSION und APP_FILES ein (alle Dateien der Fassung außer sw.js und Quellkarten).
 // Ändert sich die Fassung, ändert sich diese Datei; der Browser installiert dann im Hintergrund den neuen Worker, der
-// die neuen Dateien vollständig ablegt und die alten löscht. Die laufende App bleibt, wie sie ist; die neue Fassung
-// gilt ab dem nächsten Start. Gespeichert wird nur, was in APP_FILES steht: keine Spielstände, keine Anfragen an den
-// Server (Supabase liegt auf einer anderen Adresse und geht nie durch den Zwischenspeicher). Im Entwicklungsserver
-// bleibt APP_FILES leer, dann speichert der Worker nichts.
-const VERSION = 'c61182e974fa';
-const APP_FILES = ["apple-touch-icon.png","assets/AtkinsonHyperlegible-Bold-7HANFXYF.woff","assets/AtkinsonHyperlegible-Regular-QM2HEKO6.woff","assets/BarlowCondensed-Bold-FT7YEVUT.woff","assets/BarlowCondensed-Medium-UPMP4O4F.woff","assets/BarlowCondensed-SemiBold-X3N26CCY.woff","assets/StardosStencil-Bold-7ILNGLM6.ttf","assets/main-FOI3WZ5Y.css","assets/main-J2X3N4JZ.js","badge-96.png","badge.svg","fonts/OFL-AtkinsonHyperlegible.txt","fonts/OFL-BarlowCondensed.txt","fonts/OFL-StardosStencil.txt","icon-192.png","icon-512.png","icon.svg","index.html","manifest.webmanifest"];
+// die neuen Dateien vollständig ablegt und die alten löscht. Die laufende App bleibt, wie sie ist; auf Nachfrage nennt
+// der Worker seine Fassung und ihre Dateien, daran erkennt die App, dass eine neue bereitliegt, und lädt sie mit
+// „Neu laden“ sofort (G22, src/lib/update.ts); sonst gilt sie ab dem nächsten Start. Gespeichert wird nur, was in
+// APP_FILES steht: keine Spielstände, keine Anfragen an den Server (Supabase liegt auf einer anderen Adresse und geht
+// nie durch den Zwischenspeicher). Im Entwicklungsserver bleibt APP_FILES leer, dann speichert der Worker nichts.
+const VERSION = '71db848fbaee';
+const APP_FILES = ["apple-touch-icon.png","assets/AtkinsonHyperlegible-Bold-7HANFXYF.woff","assets/AtkinsonHyperlegible-Regular-QM2HEKO6.woff","assets/BarlowCondensed-Bold-FT7YEVUT.woff","assets/BarlowCondensed-Medium-UPMP4O4F.woff","assets/BarlowCondensed-SemiBold-X3N26CCY.woff","assets/StardosStencil-Bold-7ILNGLM6.ttf","assets/main-5VDEXNUP.js","assets/main-HP2D7DC6.css","badge-96.png","badge.svg","fonts/OFL-AtkinsonHyperlegible.txt","fonts/OFL-BarlowCondensed.txt","fonts/OFL-StardosStencil.txt","icon-192.png","icon-512.png","icon.svg","index.html","manifest.webmanifest"];
 const CACHE = `war-room-app-${VERSION}`;
 const PREFIX = 'war-room-app-';
 
@@ -33,6 +34,12 @@ self.addEventListener('activate', (event) => {
     await Promise.all(keys.filter((k) => k.startsWith(PREFIX) && k !== CACHE).map((k) => caches.delete(k)));
     await self.clients.claim();
   })());
+});
+
+// G22: Fassung und Dateien für die App (src/lib/update.ts), Antwort über den mitgeschickten Port
+self.addEventListener('message', (event) => {
+  const port = event.ports && event.ports[0];
+  if (event.data && event.data.type === 'version' && port) port.postMessage({ version: VERSION, files: APP_FILES });
 });
 
 self.addEventListener('fetch', (event) => {
