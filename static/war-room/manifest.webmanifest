@@ -1,8 +1,7 @@
 {
   "name": "War Room",
   "short_name": "War Room",
-  "description": "Private digitale Fassung von War Room für Handy und PC",
-  "lang": "de",
+  "description": "Private digitale Fassung von War Room für Handy und PC · Private digital edition of War Room for phone and PC",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
