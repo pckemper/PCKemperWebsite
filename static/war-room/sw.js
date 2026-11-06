@@ -8,8 +8,8 @@
 // „Neu laden“ sofort (G22, src/lib/update.ts); sonst gilt sie ab dem nächsten Start. Gespeichert wird nur, was in
 // APP_FILES steht: keine Spielstände, keine Anfragen an den Server (Supabase liegt auf einer anderen Adresse und geht
 // nie durch den Zwischenspeicher). Im Entwicklungsserver bleibt APP_FILES leer, dann speichert der Worker nichts.
-const VERSION = '98d498845b07';
-const APP_FILES = ["apple-touch-icon.png","assets/AtkinsonHyperlegible-Bold-7HANFXYF.woff","assets/AtkinsonHyperlegible-Regular-QM2HEKO6.woff","assets/BarlowCondensed-Bold-FT7YEVUT.woff","assets/BarlowCondensed-Medium-UPMP4O4F.woff","assets/BarlowCondensed-SemiBold-X3N26CCY.woff","assets/StardosStencil-Bold-7ILNGLM6.ttf","assets/main-DWFSMX4O.css","assets/main-O2NBA7TO.js","badge-96.png","badge.svg","fonts/OFL-AtkinsonHyperlegible.txt","fonts/OFL-BarlowCondensed.txt","fonts/OFL-StardosStencil.txt","icon-192.png","icon-512.png","icon.svg","index.html","manifest.webmanifest"];
+const VERSION = '25ab6a2f43ad';
+const APP_FILES = ["apple-touch-icon.png","assets/AtkinsonHyperlegible-Bold-7HANFXYF.woff","assets/AtkinsonHyperlegible-Regular-QM2HEKO6.woff","assets/BarlowCondensed-Bold-FT7YEVUT.woff","assets/BarlowCondensed-Medium-UPMP4O4F.woff","assets/BarlowCondensed-SemiBold-X3N26CCY.woff","assets/StardosStencil-Bold-7ILNGLM6.ttf","assets/main-UQQVBRJJ.css","assets/main-ZH4YUEJB.js","badge-96.png","badge.svg","fonts/OFL-AtkinsonHyperlegible.txt","fonts/OFL-BarlowCondensed.txt","fonts/OFL-StardosStencil.txt","icon-192.png","icon-512.png","icon.svg","index.html","manifest.webmanifest"];
 const CACHE = `war-room-app-${VERSION}`;
 const PREFIX = 'war-room-app-';
 
