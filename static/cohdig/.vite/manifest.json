@@ -1,0 +1,132 @@
+{
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff": {
+    "file": "assets/oswald-cyrillic-500-normal-CjKr_ZfC.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff2": {
+    "file": "assets/oswald-cyrillic-500-normal-Dz4ZC46J.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-700-normal.woff": {
+    "file": "assets/oswald-cyrillic-700-normal-DxuP1Pb9.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-700-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-700-normal.woff2": {
+    "file": "assets/oswald-cyrillic-700-normal-BO0IwMyy.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-700-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-500-normal.woff": {
+    "file": "assets/oswald-cyrillic-ext-500-normal-Hz7kEHBT.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-500-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-500-normal.woff2": {
+    "file": "assets/oswald-cyrillic-ext-500-normal-DngHVvy4.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-700-normal.woff": {
+    "file": "assets/oswald-cyrillic-ext-700-normal-VKAui8kQ.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-700-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-700-normal.woff2": {
+    "file": "assets/oswald-cyrillic-ext-700-normal-CtkJES1U.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-700-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-500-normal.woff": {
+    "file": "assets/oswald-latin-500-normal-DM85Di4w.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-500-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-500-normal.woff2": {
+    "file": "assets/oswald-latin-500-normal-B-eyT0Dw.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-700-normal.woff": {
+    "file": "assets/oswald-latin-700-normal-UmC9Ev9x.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-700-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-700-normal.woff2": {
+    "file": "assets/oswald-latin-700-normal-vy6hmKSr.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-700-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-ext-500-normal.woff": {
+    "file": "assets/oswald-latin-ext-500-normal-DcyNJhgm.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-500-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-ext-500-normal.woff2": {
+    "file": "assets/oswald-latin-ext-500-normal-QdEKgtiz.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-ext-700-normal.woff": {
+    "file": "assets/oswald-latin-ext-700-normal-CJSSDThd.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-700-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-ext-700-normal.woff2": {
+    "file": "assets/oswald-latin-ext-700-normal-BKErdSR5.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-700-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-vietnamese-500-normal.woff": {
+    "file": "assets/oswald-vietnamese-500-normal-Bi4XG4HV.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-500-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-vietnamese-500-normal.woff2": {
+    "file": "assets/oswald-vietnamese-500-normal-hXcn5ojQ.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-vietnamese-700-normal.woff": {
+    "file": "assets/oswald-vietnamese-700-normal-BxFoeH7J.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-700-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-vietnamese-700-normal.woff2": {
+    "file": "assets/oswald-vietnamese-700-normal-_DkZZ6ID.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-700-normal.woff2"
+  },
+  "../node_modules/workbox-window/build/workbox-window.prod.es5.mjs": {
+    "file": "assets/workbox-window.prod.es5-Bd17z0YL.js",
+    "name": "workbox-window.prod.es5",
+    "src": "../node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+    "isDynamicEntry": true
+  },
+  "index.html": {
+    "file": "assets/index-B3PfW9Qi.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "../node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+      "src/lader/inhaltOnline.ts"
+    ],
+    "css": [
+      "assets/index-B2MffIa3.css"
+    ],
+    "assets": [
+      "assets/oswald-cyrillic-ext-500-normal-DngHVvy4.woff2",
+      "assets/oswald-cyrillic-ext-500-normal-Hz7kEHBT.woff",
+      "assets/oswald-cyrillic-500-normal-Dz4ZC46J.woff2",
+      "assets/oswald-cyrillic-500-normal-CjKr_ZfC.woff",
+      "assets/oswald-vietnamese-500-normal-hXcn5ojQ.woff2",
+      "assets/oswald-vietnamese-500-normal-Bi4XG4HV.woff",
+      "assets/oswald-latin-ext-500-normal-QdEKgtiz.woff2",
+      "assets/oswald-latin-ext-500-normal-DcyNJhgm.woff",
+      "assets/oswald-latin-500-normal-B-eyT0Dw.woff2",
+      "assets/oswald-latin-500-normal-DM85Di4w.woff",
+      "assets/oswald-cyrillic-ext-700-normal-CtkJES1U.woff2",
+      "assets/oswald-cyrillic-ext-700-normal-VKAui8kQ.woff",
+      "assets/oswald-cyrillic-700-normal-BO0IwMyy.woff2",
+      "assets/oswald-cyrillic-700-normal-DxuP1Pb9.woff",
+      "assets/oswald-vietnamese-700-normal-_DkZZ6ID.woff2",
+      "assets/oswald-vietnamese-700-normal-BxFoeH7J.woff",
+      "assets/oswald-latin-ext-700-normal-BKErdSR5.woff2",
+      "assets/oswald-latin-ext-700-normal-CJSSDThd.woff",
+      "assets/oswald-latin-700-normal-vy6hmKSr.woff2",
+      "assets/oswald-latin-700-normal-UmC9Ev9x.woff"
+    ]
+  },
+  "src/lader/inhaltOnline.ts": {
+    "file": "assets/inhaltOnline-DGne2moR.js",
+    "name": "inhaltOnline",
+    "src": "src/lader/inhaltOnline.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
