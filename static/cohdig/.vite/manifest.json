@@ -222,7 +222,7 @@
     "isDynamicEntry": true
   },
   "index.html": {
-    "file": "assets/index-BTgrrMyo.js",
+    "file": "assets/index-Ct9ebGdS.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -292,7 +292,7 @@
     ]
   },
   "src/bauteile/Muster.tsx": {
-    "file": "assets/Muster-DmfZ_Zdk.js",
+    "file": "assets/Muster-BW8ySkqw.js",
     "name": "Muster",
     "src": "src/bauteile/Muster.tsx",
     "isDynamicEntry": true,
@@ -301,7 +301,7 @@
     ]
   },
   "src/lader/inhaltOnline.ts": {
-    "file": "assets/inhaltOnline-DCqXpQ_b.js",
+    "file": "assets/inhaltOnline-B6uY9EQX.js",
     "name": "inhaltOnline",
     "src": "src/lader/inhaltOnline.ts",
     "isDynamicEntry": true,
