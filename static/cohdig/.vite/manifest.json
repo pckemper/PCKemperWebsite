@@ -1,4 +1,100 @@
 {
+  "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-600-normal.woff": {
+    "file": "assets/barlow-semi-condensed-latin-600-normal-DyOfdMBA.woff",
+    "src": "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-600-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-600-normal.woff2": {
+    "file": "assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2",
+    "src": "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-600-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-ext-600-normal.woff": {
+    "file": "assets/barlow-semi-condensed-latin-ext-600-normal-BuP8AaxH.woff",
+    "src": "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-ext-600-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-ext-600-normal.woff2": {
+    "file": "assets/barlow-semi-condensed-latin-ext-600-normal-BkQ9hN72.woff2",
+    "src": "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-latin-ext-600-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-vietnamese-600-normal.woff": {
+    "file": "assets/barlow-semi-condensed-vietnamese-600-normal-DzVrjA0Q.woff",
+    "src": "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-vietnamese-600-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-vietnamese-600-normal.woff2": {
+    "file": "assets/barlow-semi-condensed-vietnamese-600-normal-b1FQiZcx.woff2",
+    "src": "../node_modules/@fontsource/barlow-semi-condensed/files/barlow-semi-condensed-vietnamese-600-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-400-normal.woff": {
+    "file": "assets/barlow-latin-400-normal-fsAxiSwU.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-400-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-400-normal.woff2": {
+    "file": "assets/barlow-latin-400-normal-qiz4-Cze.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-400-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-500-normal.woff": {
+    "file": "assets/barlow-latin-500-normal-C1h8hMer.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-500-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-500-normal.woff2": {
+    "file": "assets/barlow-latin-500-normal-BPAOfeC8.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-600-normal.woff": {
+    "file": "assets/barlow-latin-600-normal-CNwfPWQD.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-600-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-600-normal.woff2": {
+    "file": "assets/barlow-latin-600-normal-DILqtrty.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-600-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-ext-400-normal.woff": {
+    "file": "assets/barlow-latin-ext-400-normal-CvBsJvxq.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-ext-400-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-ext-400-normal.woff2": {
+    "file": "assets/barlow-latin-ext-400-normal-HxX4XjxC.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-ext-400-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-ext-500-normal.woff": {
+    "file": "assets/barlow-latin-ext-500-normal-CJPcKP2Q.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-ext-500-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-ext-500-normal.woff2": {
+    "file": "assets/barlow-latin-ext-500-normal-DOaysfXq.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-ext-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-ext-600-normal.woff": {
+    "file": "assets/barlow-latin-ext-600-normal-DMVRjfRT.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-ext-600-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-latin-ext-600-normal.woff2": {
+    "file": "assets/barlow-latin-ext-600-normal-B8NK_A3D.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-latin-ext-600-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-vietnamese-400-normal.woff": {
+    "file": "assets/barlow-vietnamese-400-normal-BFeobeCK.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-vietnamese-400-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-vietnamese-400-normal.woff2": {
+    "file": "assets/barlow-vietnamese-400-normal-Dpl4UHAZ.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-vietnamese-400-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-vietnamese-500-normal.woff": {
+    "file": "assets/barlow-vietnamese-500-normal-GNfB7rCE.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-vietnamese-500-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-vietnamese-500-normal.woff2": {
+    "file": "assets/barlow-vietnamese-500-normal-zTViEIzf.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-vietnamese-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-vietnamese-600-normal.woff": {
+    "file": "assets/barlow-vietnamese-600-normal-CA_GiK2e.woff",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-vietnamese-600-normal.woff"
+  },
+  "../node_modules/@fontsource/barlow/files/barlow-vietnamese-600-normal.woff2": {
+    "file": "assets/barlow-vietnamese-600-normal-DcjprdFV.woff2",
+    "src": "../node_modules/@fontsource/barlow/files/barlow-vietnamese-600-normal.woff2"
+  },
   "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff": {
     "file": "assets/oswald-cyrillic-500-normal-CjKr_ZfC.woff",
     "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff"
@@ -6,6 +102,14 @@
   "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff2": {
     "file": "assets/oswald-cyrillic-500-normal-Dz4ZC46J.woff2",
     "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-600-normal.woff": {
+    "file": "assets/oswald-cyrillic-600-normal-B7zyAoGs.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-600-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-600-normal.woff2": {
+    "file": "assets/oswald-cyrillic-600-normal-OIkAk3Qq.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-600-normal.woff2"
   },
   "../node_modules/@fontsource/oswald/files/oswald-cyrillic-700-normal.woff": {
     "file": "assets/oswald-cyrillic-700-normal-DxuP1Pb9.woff",
@@ -23,6 +127,14 @@
     "file": "assets/oswald-cyrillic-ext-500-normal-DngHVvy4.woff2",
     "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-500-normal.woff2"
   },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-600-normal.woff": {
+    "file": "assets/oswald-cyrillic-ext-600-normal-CXH_3Vsf.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-600-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-600-normal.woff2": {
+    "file": "assets/oswald-cyrillic-ext-600-normal-DJv8RkPb.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-600-normal.woff2"
+  },
   "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-700-normal.woff": {
     "file": "assets/oswald-cyrillic-ext-700-normal-VKAui8kQ.woff",
     "src": "../node_modules/@fontsource/oswald/files/oswald-cyrillic-ext-700-normal.woff"
@@ -38,6 +150,14 @@
   "../node_modules/@fontsource/oswald/files/oswald-latin-500-normal.woff2": {
     "file": "assets/oswald-latin-500-normal-B-eyT0Dw.woff2",
     "src": "../node_modules/@fontsource/oswald/files/oswald-latin-500-normal.woff2"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-600-normal.woff": {
+    "file": "assets/oswald-latin-600-normal-DRToI_2E.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-600-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-600-normal.woff2": {
+    "file": "assets/oswald-latin-600-normal-plFmSr5g.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-600-normal.woff2"
   },
   "../node_modules/@fontsource/oswald/files/oswald-latin-700-normal.woff": {
     "file": "assets/oswald-latin-700-normal-UmC9Ev9x.woff",
@@ -55,6 +175,14 @@
     "file": "assets/oswald-latin-ext-500-normal-QdEKgtiz.woff2",
     "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-500-normal.woff2"
   },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-ext-600-normal.woff": {
+    "file": "assets/oswald-latin-ext-600-normal-BUCHT9gM.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-600-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-latin-ext-600-normal.woff2": {
+    "file": "assets/oswald-latin-ext-600-normal-5Cvn_Zbc.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-600-normal.woff2"
+  },
   "../node_modules/@fontsource/oswald/files/oswald-latin-ext-700-normal.woff": {
     "file": "assets/oswald-latin-ext-700-normal-CJSSDThd.woff",
     "src": "../node_modules/@fontsource/oswald/files/oswald-latin-ext-700-normal.woff"
@@ -71,6 +199,14 @@
     "file": "assets/oswald-vietnamese-500-normal-hXcn5ojQ.woff2",
     "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-500-normal.woff2"
   },
+  "../node_modules/@fontsource/oswald/files/oswald-vietnamese-600-normal.woff": {
+    "file": "assets/oswald-vietnamese-600-normal-CH5CIKWT.woff",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-600-normal.woff"
+  },
+  "../node_modules/@fontsource/oswald/files/oswald-vietnamese-600-normal.woff2": {
+    "file": "assets/oswald-vietnamese-600-normal-h0z1RevK.woff2",
+    "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-600-normal.woff2"
+  },
   "../node_modules/@fontsource/oswald/files/oswald-vietnamese-700-normal.woff": {
     "file": "assets/oswald-vietnamese-700-normal-BxFoeH7J.woff",
     "src": "../node_modules/@fontsource/oswald/files/oswald-vietnamese-700-normal.woff"
@@ -86,16 +222,17 @@
     "isDynamicEntry": true
   },
   "index.html": {
-    "file": "assets/index-B3PfW9Qi.js",
+    "file": "assets/index-BTgrrMyo.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
       "../node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
-      "src/lader/inhaltOnline.ts"
+      "src/lader/inhaltOnline.ts",
+      "src/bauteile/Muster.tsx"
     ],
     "css": [
-      "assets/index-B2MffIa3.css"
+      "assets/index-BuhTVg16.css"
     ],
     "assets": [
       "assets/oswald-cyrillic-ext-500-normal-DngHVvy4.woff2",
@@ -108,6 +245,16 @@
       "assets/oswald-latin-ext-500-normal-DcyNJhgm.woff",
       "assets/oswald-latin-500-normal-B-eyT0Dw.woff2",
       "assets/oswald-latin-500-normal-DM85Di4w.woff",
+      "assets/oswald-cyrillic-ext-600-normal-DJv8RkPb.woff2",
+      "assets/oswald-cyrillic-ext-600-normal-CXH_3Vsf.woff",
+      "assets/oswald-cyrillic-600-normal-OIkAk3Qq.woff2",
+      "assets/oswald-cyrillic-600-normal-B7zyAoGs.woff",
+      "assets/oswald-vietnamese-600-normal-h0z1RevK.woff2",
+      "assets/oswald-vietnamese-600-normal-CH5CIKWT.woff",
+      "assets/oswald-latin-ext-600-normal-5Cvn_Zbc.woff2",
+      "assets/oswald-latin-ext-600-normal-BUCHT9gM.woff",
+      "assets/oswald-latin-600-normal-plFmSr5g.woff2",
+      "assets/oswald-latin-600-normal-DRToI_2E.woff",
       "assets/oswald-cyrillic-ext-700-normal-CtkJES1U.woff2",
       "assets/oswald-cyrillic-ext-700-normal-VKAui8kQ.woff",
       "assets/oswald-cyrillic-700-normal-BO0IwMyy.woff2",
@@ -117,11 +264,44 @@
       "assets/oswald-latin-ext-700-normal-BKErdSR5.woff2",
       "assets/oswald-latin-ext-700-normal-CJSSDThd.woff",
       "assets/oswald-latin-700-normal-vy6hmKSr.woff2",
-      "assets/oswald-latin-700-normal-UmC9Ev9x.woff"
+      "assets/oswald-latin-700-normal-UmC9Ev9x.woff",
+      "assets/barlow-vietnamese-400-normal-Dpl4UHAZ.woff2",
+      "assets/barlow-vietnamese-400-normal-BFeobeCK.woff",
+      "assets/barlow-latin-ext-400-normal-HxX4XjxC.woff2",
+      "assets/barlow-latin-ext-400-normal-CvBsJvxq.woff",
+      "assets/barlow-latin-400-normal-qiz4-Cze.woff2",
+      "assets/barlow-latin-400-normal-fsAxiSwU.woff",
+      "assets/barlow-vietnamese-500-normal-zTViEIzf.woff2",
+      "assets/barlow-vietnamese-500-normal-GNfB7rCE.woff",
+      "assets/barlow-latin-ext-500-normal-DOaysfXq.woff2",
+      "assets/barlow-latin-ext-500-normal-CJPcKP2Q.woff",
+      "assets/barlow-latin-500-normal-BPAOfeC8.woff2",
+      "assets/barlow-latin-500-normal-C1h8hMer.woff",
+      "assets/barlow-vietnamese-600-normal-DcjprdFV.woff2",
+      "assets/barlow-vietnamese-600-normal-CA_GiK2e.woff",
+      "assets/barlow-latin-ext-600-normal-B8NK_A3D.woff2",
+      "assets/barlow-latin-ext-600-normal-DMVRjfRT.woff",
+      "assets/barlow-latin-600-normal-DILqtrty.woff2",
+      "assets/barlow-latin-600-normal-CNwfPWQD.woff",
+      "assets/barlow-semi-condensed-vietnamese-600-normal-b1FQiZcx.woff2",
+      "assets/barlow-semi-condensed-vietnamese-600-normal-DzVrjA0Q.woff",
+      "assets/barlow-semi-condensed-latin-ext-600-normal-BkQ9hN72.woff2",
+      "assets/barlow-semi-condensed-latin-ext-600-normal-BuP8AaxH.woff",
+      "assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2",
+      "assets/barlow-semi-condensed-latin-600-normal-DyOfdMBA.woff"
+    ]
+  },
+  "src/bauteile/Muster.tsx": {
+    "file": "assets/Muster-DmfZ_Zdk.js",
+    "name": "Muster",
+    "src": "src/bauteile/Muster.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
     ]
   },
   "src/lader/inhaltOnline.ts": {
-    "file": "assets/inhaltOnline-DGne2moR.js",
+    "file": "assets/inhaltOnline-DCqXpQ_b.js",
     "name": "inhaltOnline",
     "src": "src/lader/inhaltOnline.ts",
     "isDynamicEntry": true,
