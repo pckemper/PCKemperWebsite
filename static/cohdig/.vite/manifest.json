@@ -222,7 +222,7 @@
     "isDynamicEntry": true
   },
   "index.html": {
-    "file": "assets/index-C4IN5vwT.js",
+    "file": "assets/index-DY2-IuRM.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -232,7 +232,7 @@
       "src/bauteile/Muster.tsx"
     ],
     "css": [
-      "assets/index-BL2p7wFi.css"
+      "assets/index-CVWiXSYq.css"
     ],
     "assets": [
       "assets/oswald-cyrillic-ext-500-normal-DngHVvy4.woff2",
@@ -292,7 +292,7 @@
     ]
   },
   "src/bauteile/Muster.tsx": {
-    "file": "assets/Muster-CuzHSinu.js",
+    "file": "assets/Muster-Bf20Ulfx.js",
     "name": "Muster",
     "src": "src/bauteile/Muster.tsx",
     "isDynamicEntry": true,
@@ -301,7 +301,7 @@
     ]
   },
   "src/lader/inhaltOnline.ts": {
-    "file": "assets/inhaltOnline-m8fkBkZR.js",
+    "file": "assets/inhaltOnline-A67PU5pi.js",
     "name": "inhaltOnline",
     "src": "src/lader/inhaltOnline.ts",
     "isDynamicEntry": true,
